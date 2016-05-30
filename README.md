@@ -5,4 +5,7 @@ New line of change.
 Test new line. 
 Sample Number 1
 Test change
+<<<<<<< HEAD
 2
+=======
+>>>>>>> Test_Branch
